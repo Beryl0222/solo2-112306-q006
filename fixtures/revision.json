@@ -1,0 +1,36 @@
+{
+  "recording_pair": "arm-left:right-17",
+  "sampling": {
+    "reference": [
+      0.0,
+      0.5,
+      1.0,
+      1.5
+    ],
+    "observed": [
+      0.0,
+      0.4,
+      1.1,
+      1.6
+    ]
+  },
+  "anchors": [
+    [
+      0,
+      0
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "missing_observed": [],
+  "band": 1,
+  "temperature": 0.4,
+  "revision": "synthetic-revision-2",
+  "note": "用于说明资料发生修订，不包含预设的业务计算结论。"
+}

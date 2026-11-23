@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "fixture": "trace_alignment",
+  "synthetic": true,
+  "records": [
+    "primary.json",
+    "revision.json"
+  ]
+}
